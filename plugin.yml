@@ -1,0 +1,34 @@
+name: M1WarZone
+version: 1.5.0
+main: me.m1v3rpwn.war.main.Main
+commands:
+  prim:
+    description: sets your primary weapon.
+    usage: /prim [gun]
+  sec:
+    description: sets your secondary weapon.
+    usage: /sec [gun]
+  start:
+    description: starts the game.
+    usage: /start
+  buy:
+    description: buys a weapon.
+    usage: /buy [gun]
+  exp:
+    description: displays your current level and exp.
+    usage: /exp
+  xp:
+    description: displays your current level and exp.
+    usage: /xp
+  kd:
+    description: displays your kdr.
+    usage: /kd
+  k/d:
+    description: displays your kdr.
+    usage: /k/d
+  kdr:
+    description: displays your kdr.
+    usage: /kdr
+  play:
+    description: plays a different game mode.
+    usage: /play <game type>
