@@ -1,6 +1,6 @@
-name: M1WarZone
+name: WarZone
 version: 1.5.0
-main: me.m1v3rpwn.war.main.Main
+main: main.Main
 commands:
   prim:
     description: sets your primary weapon.
